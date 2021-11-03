@@ -1,0 +1,11 @@
+{
+  "globals": {
+    "assert": false,
+		"contract": false,
+		"it": false,
+		"artifacts": false,
+		"beforeEach": false,
+		"before": false,
+		"describe": false
+	}
+}
